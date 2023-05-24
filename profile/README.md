@@ -1,4 +1,4 @@
-<img align="center" src="https://ibb.co/QXWW5R2" alt="banner" border="0" width="100%">
+<img align="center" src="https://i.postimg.cc/cCty7gL1/cover-exploreka.png" alt="exploreka-cover" border="0" width="100%">
 
 # Hi there, welcome to Exploreka 👋
 
