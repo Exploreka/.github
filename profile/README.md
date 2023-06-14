@@ -14,4 +14,4 @@ The Covid-19 pandemic has seriously affected Indonesia's tourism industry, with 
 | A205DSX1247  | Muhammad I'zzudin                  | Universitas Islam Sultan Agung Semarang             |
 | A205DSX1181  | Ardian Arif Wahyudi                | Universitas Islam Sultan Agung Semarang             |
 ## Cloud Architecture Using Google Cloud Platform
-![Untitled-2023-06-14-2230](https://github.com/Exploreka/.github/assets/88073895/98e2336d-7f02-4983-8553-965e4a362811)
+![Untitled-2023-06-14-2230](https://github.com/Exploreka/.github/assets/88073895/021cd638-120b-4817-8852-8e2e6f30ee4e)
