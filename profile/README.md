@@ -2,7 +2,7 @@
 
 # Hi there, welcome to Exploreka 👋
 
-The Covid-19 pandemic has seriously affected Indonesia's tourism industry, with only 4,05 million tourists entering in 2020, this is only 25% compared to revenue in 2019. This decline has seriously affected the country's foreign exchange earnings. Even though Indonesia has tremendous tourism potential, several problems hinder the development of the industry. Among them are the lack of information, difficult access, uneven distribution of tourist objects, and promotions that are less attractive. To overcome these challenges, tourism applications that provide complete information about tourist attractions, tour guides, and 360 virtual tour features can increase tourist interest and enhance their travel planning experience.
+The Exploreka app is a platform designed to help users find and plan their travel journeys, including a range of available travel packages. The app provides up-to-date information on tourist destinations, activities, and accommodations. Exploreka also features a standout 360 virtual tour to enhance tourist interest and improve the travel planning experience. The app offers personalized recommendations based on user interests and preferences. Its goal is to promote sustainable tourism practices by facilitating interactions between tourists and local communities. This will encourage tourists to explore more remote destinations, thus promoting a more equitable distribution of tourist visits.
 
 <details>
    <summary align="center">More Information</summary>
