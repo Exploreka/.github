@@ -20,13 +20,12 @@ In our project is divided into four repos.
 ![Untitled-2023-06-14-2230](https://github.com/Exploreka/.github/assets/88073895/021cd638-120b-4817-8852-8e2e6f30ee4e)
 
 ## 👥 Team Members
-|  Student ID  | Name                               | University                                          |
-|--------------|------------------------------------|-----------------------------------------------------|
-| M305DSX3206  | Wildan Fatahillah Akbar            | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| M132DKY4963  | Talitha Alda Zafirah Dewi          | Universitas Airlangga                               |
-| C305DSX3565  | Muhammad Alfian Sendhy Ramadhinata | Universitas Pembangunan Nasional Veteran Jawa Timur |
-| C205DSX0906  | Hildan Mulyo Hermawan              | Universitas Islam Sultan Agung Semarang             |
-| A205DSX1247  | Muhammad I'zzudin                  | Universitas Islam Sultan Agung Semarang             |
-| A205DSX1181  | Ardian Arif Wahyudi                | Universitas Islam Sultan Agung Semarang             |
+|  Student ID  | Name                               | University                                          |Github Links|
+|--------------|------------------------------------|-----------------------------------------------------|------------|
+| M305DSX3206  | Wildan Fatahillah Akbar            | Universitas Pembangunan Nasional Veteran Jawa Timur |[Github](https://github.com/wildanfatah22)
+| M132DKY4963  | Talitha Alda Zafirah Dewi          | Universitas Airlangga                               |[Github](https://github.com/talithaalda)
+| C305DSX3565  | Muhammad Alfian Sendhy Ramadhinata | Universitas Pembangunan Nasional Veteran Jawa Timur |[Github](https://github.com/sendhyrama)
+| C205DSX0906  | Hildan Mulyo Hermawan              | Universitas Islam Sultan Agung Semarang             |[Github](https://github.com/Hildan2002)
+| A205DSX1247  | Muhammad I'zzudin                  | Universitas Islam Sultan Agung Semarang             |[Github](https://github.com/Izzed1)
+| A205DSX1181  | Ardian Arif Wahyudi                | Universitas Islam Sultan Agung Semarang             |[Github](https://github.com/ardian-arif-wahyudi)
 
-<details>
